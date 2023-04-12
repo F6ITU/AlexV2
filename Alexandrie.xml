@@ -1,0 +1,1065 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Users\marco\Documents\KiCad\Projets\Alexandrie\Alexandrie.sch</source>
+    <date>23/07/2020 08:38:26</date>
+    <tool>Eeschema (5.1.5)-3</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Alexandrie.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J1">
+      <value>kk_10</value>
+      <footprint>conn_kk100:kk100_22-23-2101</footprint>
+      <libsource lib="Alexandrie-rescue" part="CONN_01X10" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59232B45</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>kk_5</value>
+      <footprint>conn_kk100:kk100_22-23-2051</footprint>
+      <libsource lib="Alexandrie-rescue" part="CONN_01X05" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59232E22</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>74HCT04</value>
+      <footprint>Housings_SOIC:SOIC-14_3.9x8.7mm_Pitch1.27mm</footprint>
+      <libsource lib="Alexandrie-rescue" part="74HCT04" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5923C0AC</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>10k</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="Alexandrie-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5923C61B</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>10k</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="Alexandrie-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5923C65C</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>10k</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="Alexandrie-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5923C695</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Alexandrie-rescue" part="C" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5923FF1E</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>10k</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="Alexandrie-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>592418F8</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>10k</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="Alexandrie-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>592418FE</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Alexandrie-rescue" part="C" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59241928</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>10k</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="Alexandrie-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>592428CD</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>74HCT04</value>
+      <footprint>Housings_SOIC:SOIC-14_3.9x8.7mm_Pitch1.27mm</footprint>
+      <libsource lib="Alexandrie-rescue" part="74HCT04" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>592435F8</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Alexandrie-rescue" part="C" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59245466</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Alexandrie-rescue" part="C" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5924547C</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>LED</value>
+      <footprint>smd_leds:Led_1206</footprint>
+      <libsource lib="Alexandrie-rescue" part="LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>592454A2</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>1k2</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="Alexandrie-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>592454A8</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>LED</value>
+      <footprint>smd_leds:Led_1206</footprint>
+      <libsource lib="Alexandrie-rescue" part="LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>592454B1</tstamp>
+    </comp>
+    <comp ref="R12">
+      <value>1k2</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="Alexandrie-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>592454B7</tstamp>
+    </comp>
+    <comp ref="J8">
+      <value>kk_10</value>
+      <footprint>conn_kk100:kk100_22-23-2101</footprint>
+      <libsource lib="Alexandrie-rescue" part="CONN_01X10" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5924C6BB</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Alexandrie-rescue" part="C" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5925AC57</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>LED</value>
+      <footprint>smd_leds:Led_1206</footprint>
+      <libsource lib="Alexandrie-rescue" part="LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5925FA9C</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>1k2</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="Alexandrie-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5925FAA2</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>LED</value>
+      <footprint>smd_leds:Led_1206</footprint>
+      <libsource lib="Alexandrie-rescue" part="LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5926053F</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>1k2</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="Alexandrie-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59260545</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>4k7</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <libsource lib="Alexandrie-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59281EFA</tstamp>
+    </comp>
+    <comp ref="C19">
+      <value>10u</value>
+      <footprint>Capacitors_Tantalum_SMD:CP_Tantalum_Case-C_EIA-6032-28_Hand</footprint>
+      <libsource lib="Alexandrie-rescue" part="CP_Small" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59248938</tstamp>
+    </comp>
+    <comp ref="C18">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Alexandrie-rescue" part="C_Small" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5924893E</tstamp>
+    </comp>
+    <comp ref="C17">
+      <value>10u</value>
+      <footprint>Capacitors_Tantalum_SMD:CP_Tantalum_Case-C_EIA-6032-28_Hand</footprint>
+      <libsource lib="Alexandrie-rescue" part="CP_Small" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59248944</tstamp>
+    </comp>
+    <comp ref="C16">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Alexandrie-rescue" part="C_Small" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5924894A</tstamp>
+    </comp>
+    <comp ref="C20">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Alexandrie-rescue" part="C_Small" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59248950</tstamp>
+    </comp>
+    <comp ref="J5">
+      <value>CONN_01X02</value>
+      <footprint>conn_kk100:kk100_22-23-2021</footprint>
+      <libsource lib="Alexandrie-rescue" part="CONN_01X02" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5924AA75</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="Alexandrie-rescue" part="C" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5928D1F3</tstamp>
+    </comp>
+    <comp ref="J4">
+      <value>CONN_01X06</value>
+      <footprint>conn_kk100:kk100_22-23-2061</footprint>
+      <libsource lib="Alexandrie-rescue" part="CONN_01X06" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5928F83B</tstamp>
+    </comp>
+    <comp ref="U3">
+      <value>TPIC6B595</value>
+      <footprint>Housings_SOIC:SO-20_12.8x7.5mm_Pitch1.27mm</footprint>
+      <libsource lib="tpic6b595" part="TPIC6B595" description=" 8-Bit Shift Register"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>592A0C33</tstamp>
+    </comp>
+    <comp ref="U6">
+      <value>TPIC6B595</value>
+      <footprint>Housings_SOIC:SO-20_12.8x7.5mm_Pitch1.27mm</footprint>
+      <libsource lib="tpic6b595" part="TPIC6B595" description=" 8-Bit Shift Register"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>592A2E3E</tstamp>
+    </comp>
+    <comp ref="U4">
+      <value>TPIC6B595</value>
+      <footprint>Housings_SOIC:SO-20_12.8x7.5mm_Pitch1.27mm</footprint>
+      <libsource lib="tpic6b595" part="TPIC6B595" description=" 8-Bit Shift Register"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>592A44F6</tstamp>
+    </comp>
+    <comp ref="U7">
+      <value>TPIC6B595</value>
+      <footprint>Housings_SOIC:SO-20_12.8x7.5mm_Pitch1.27mm</footprint>
+      <libsource lib="tpic6b595" part="TPIC6B595" description=" 8-Bit Shift Register"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>592A680C</tstamp>
+    </comp>
+    <comp ref="TP1">
+      <value>TEST</value>
+      <footprint>Mounting_Holes:MountingHole_3.5mm_Pad</footprint>
+      <libsource lib="Alexandrie-rescue" part="TEST" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>592BBEFC</tstamp>
+    </comp>
+    <comp ref="TP2">
+      <value>TEST</value>
+      <footprint>Mounting_Holes:MountingHole_3.5mm_Pad</footprint>
+      <libsource lib="Alexandrie-rescue" part="TEST" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>592BBFC7</tstamp>
+    </comp>
+    <comp ref="U12">
+      <value>78M05 Dpak</value>
+      <footprint>TO_SOT_Packages_SMD:TO-263-3_TabPin4</footprint>
+      <libsource lib="7805d-pack" part="7805D-Pack" description="Linear Regulator +5V"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>592CBEF0</tstamp>
+    </comp>
+    <comp ref="TP3">
+      <value>TEST</value>
+      <footprint>Mounting_Holes:MountingHole_3.5mm_Pad</footprint>
+      <libsource lib="Alexandrie-rescue" part="TEST" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>592E5FB7</tstamp>
+    </comp>
+    <comp ref="TP4">
+      <value>TEST</value>
+      <footprint>Mounting_Holes:MountingHole_3.5mm_Pad</footprint>
+      <libsource lib="Alexandrie-rescue" part="TEST" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>592E5FBD</tstamp>
+    </comp>
+    <comp ref="J11">
+      <value>CONN_01X03</value>
+      <footprint>conn_kk100:kk100_22-23-2031</footprint>
+      <libsource lib="Alexandrie-rescue" part="CONN_01X03" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>592EBACE</tstamp>
+    </comp>
+    <comp ref="D9">
+      <value>D</value>
+      <footprint>Diodes_SMD:D_SMB_Handsoldering</footprint>
+      <libsource lib="Alexandrie-rescue" part="D" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>592ECDDA</tstamp>
+    </comp>
+    <comp ref="J3">
+      <value>kk_5</value>
+      <footprint>conn_kk100:kk100_22-23-2051</footprint>
+      <libsource lib="Alexandrie-rescue" part="CONN_01X05" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5939C57F</tstamp>
+    </comp>
+    <comp ref="J6">
+      <value>CONN_01X13</value>
+      <footprint>conn_kk100:kk100_22-23-2131</footprint>
+      <libsource lib="Alexandrie-rescue" part="CONN_01X13" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>593F22D4</tstamp>
+    </comp>
+    <comp ref="J7">
+      <value>Conn_01x07</value>
+      <footprint>Connectors_Molex:Molex_KK-6410-07_07x2.54mm_Straight</footprint>
+      <libsource lib="Alexandrie-rescue" part="Conn_01x07" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A61D7BF</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="7805d-pack" part="7805D-Pack">
+      <aliases>
+        <alias>MC7805</alias>
+      </aliases>
+      <description>Linear Regulator +5V</description>
+      <docs>regulator\lm78xx.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">7805D-Pack</field>
+      </fields>
+      <pins>
+        <pin num="1" name="In" type="input"/>
+        <pin num="2" name="GND" type="input"/>
+        <pin num="3" name="Out" type="power_out"/>
+        <pin num="4" name="Tab" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Alexandrie-rescue" part="74HCT04">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74HCT04</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="input"/>
+        <pin num="2" name="~" type="output"/>
+        <pin num="3" name="~" type="input"/>
+        <pin num="4" name="~" type="output"/>
+        <pin num="5" name="~" type="input"/>
+        <pin num="6" name="~" type="output"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="~" type="output"/>
+        <pin num="9" name="~" type="input"/>
+        <pin num="10" name="~" type="output"/>
+        <pin num="11" name="~" type="input"/>
+        <pin num="12" name="~" type="output"/>
+        <pin num="13" name="~" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Alexandrie-rescue" part="C">
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Alexandrie-rescue" part="CONN_01X02">
+      <footprints>
+        <fp>Pin_Header_Straight_1X*</fp>
+        <fp>Pin_Header_Angled_1X*</fp>
+        <fp>Socket_Strip_Straight_1X*</fp>
+        <fp>Socket_Strip_Angled_1X*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">CONN_01X02</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Alexandrie-rescue" part="CONN_01X03">
+      <footprints>
+        <fp>Pin_Header_Straight_1X*</fp>
+        <fp>Pin_Header_Angled_1X*</fp>
+        <fp>Socket_Strip_Straight_1X*</fp>
+        <fp>Socket_Strip_Angled_1X*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">CONN_01X03</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Alexandrie-rescue" part="CONN_01X05">
+      <footprints>
+        <fp>Pin_Header_Straight_1X*</fp>
+        <fp>Pin_Header_Angled_1X*</fp>
+        <fp>Socket_Strip_Straight_1X*</fp>
+        <fp>Socket_Strip_Angled_1X*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">CONN_01X05</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+        <pin num="4" name="P4" type="passive"/>
+        <pin num="5" name="P5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Alexandrie-rescue" part="CONN_01X06">
+      <footprints>
+        <fp>Pin_Header_Straight_1X*</fp>
+        <fp>Pin_Header_Angled_1X*</fp>
+        <fp>Socket_Strip_Straight_1X*</fp>
+        <fp>Socket_Strip_Angled_1X*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">CONN_01X06</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+        <pin num="4" name="P4" type="passive"/>
+        <pin num="5" name="P5" type="passive"/>
+        <pin num="6" name="P6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Alexandrie-rescue" part="CONN_01X10">
+      <footprints>
+        <fp>Pin_Header_Straight_1X*</fp>
+        <fp>Pin_Header_Angled_1X*</fp>
+        <fp>Socket_Strip_Straight_1X*</fp>
+        <fp>Socket_Strip_Angled_1X*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">CONN_01X10</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+        <pin num="4" name="P4" type="passive"/>
+        <pin num="5" name="P5" type="passive"/>
+        <pin num="6" name="P6" type="passive"/>
+        <pin num="7" name="P7" type="passive"/>
+        <pin num="8" name="P8" type="passive"/>
+        <pin num="9" name="P9" type="passive"/>
+        <pin num="10" name="P10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Alexandrie-rescue" part="CONN_01X13">
+      <footprints>
+        <fp>Pin_Header_Straight_1X*</fp>
+        <fp>Pin_Header_Angled_1X*</fp>
+        <fp>Socket_Strip_Straight_1X*</fp>
+        <fp>Socket_Strip_Angled_1X*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">CONN_01X13</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+        <pin num="4" name="P4" type="passive"/>
+        <pin num="5" name="P5" type="passive"/>
+        <pin num="6" name="P6" type="passive"/>
+        <pin num="7" name="P7" type="passive"/>
+        <pin num="8" name="P8" type="passive"/>
+        <pin num="9" name="P9" type="passive"/>
+        <pin num="10" name="P10" type="passive"/>
+        <pin num="11" name="P11" type="passive"/>
+        <pin num="12" name="P12" type="passive"/>
+        <pin num="13" name="P13" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Alexandrie-rescue" part="CP_Small">
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CP_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Alexandrie-rescue" part="C_Small">
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Alexandrie-rescue" part="Conn_01x07">
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x07</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Alexandrie-rescue" part="D">
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*SingleDiode</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Alexandrie-rescue" part="LED">
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Alexandrie-rescue" part="R">
+      <footprints>
+        <fp>R_*</fp>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Alexandrie-rescue" part="TEST">
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TEST</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="tpic6b595" part="TPIC6B595">
+      <description> 8-Bit Shift Register</description>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TPIC6B595</field>
+      </fields>
+      <pins>
+        <pin num="1" name="NC" type="input"/>
+        <pin num="2" name="Vcc" type="power_in"/>
+        <pin num="3" name="SERin" type="input"/>
+        <pin num="4" name="D0" type="input"/>
+        <pin num="5" name="D1" type="input"/>
+        <pin num="6" name="D2" type="input"/>
+        <pin num="7" name="D3" type="input"/>
+        <pin num="8" name="SRCLR" type="input"/>
+        <pin num="9" name="G" type="input"/>
+        <pin num="10" name="gnd" type="input"/>
+        <pin num="11" name="gnd" type="input"/>
+        <pin num="12" name="RCK" type="input"/>
+        <pin num="13" name="SRCK" type="input"/>
+        <pin num="14" name="D4" type="input"/>
+        <pin num="15" name="D5" type="input"/>
+        <pin num="16" name="D6" type="input"/>
+        <pin num="17" name="D7" type="input"/>
+        <pin num="18" name="SERout" type="output"/>
+        <pin num="19" name="gnd" type="input"/>
+        <pin num="20" name="NC" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="7805d-pack">
+      <uri>C:\Users\marco\Documents\KiCad\Projets\Alexandrie/lib/Regulateurs/7805d-pack.lib</uri>
+    </library>
+    <library logical="Alexandrie-rescue">
+      <uri>C:\Users\marco\Documents\KiCad\Projets\Alexandrie/Alexandrie-rescue.lib</uri>
+    </library>
+    <library logical="tpic6b595">
+      <uri>C:\Users\marco\Documents\KiCad\Projets\Alexandrie/lib/Logic/tpic6b595.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(U2-Pad6)">
+      <node ref="U2" pin="6"/>
+      <node ref="U2" pin="9"/>
+    </net>
+    <net code="2" name="SPI_RX_Load">
+      <node ref="J1" pin="5"/>
+      <node ref="R2" pin="2"/>
+      <node ref="U2" pin="13"/>
+    </net>
+    <net code="3" name="Net-(U2-Pad11)">
+      <node ref="U2" pin="11"/>
+      <node ref="U2" pin="12"/>
+    </net>
+    <net code="4" name="SPI_SPL_Data">
+      <node ref="J1" pin="3"/>
+      <node ref="R1" pin="2"/>
+      <node ref="R5" pin="1"/>
+      <node ref="U1" pin="11"/>
+      <node ref="U2" pin="1"/>
+    </net>
+    <net code="5" name="Net-(J1-Pad6)">
+      <node ref="U1" pin="1"/>
+      <node ref="J1" pin="6"/>
+      <node ref="R3" pin="1"/>
+    </net>
+    <net code="6" name="Net-(J1-Pad7)">
+      <node ref="J4" pin="1"/>
+      <node ref="J1" pin="7"/>
+      <node ref="J2" pin="1"/>
+    </net>
+    <net code="7" name="Net-(J1-Pad9)">
+      <node ref="J1" pin="9"/>
+      <node ref="J2" pin="2"/>
+      <node ref="J4" pin="2"/>
+    </net>
+    <net code="8" name="Net-(U2-Pad2)">
+      <node ref="U2" pin="3"/>
+      <node ref="U2" pin="2"/>
+    </net>
+    <net code="9" name="Net-(U2-Pad10)">
+      <node ref="U7" pin="12"/>
+      <node ref="U4" pin="12"/>
+      <node ref="U2" pin="10"/>
+    </net>
+    <net code="10" name="HPF_ByPass">
+      <node ref="J6" pin="11"/>
+      <node ref="U7" pin="14"/>
+    </net>
+    <net code="11" name="Net-(U4-Pad18)">
+      <node ref="U7" pin="3"/>
+      <node ref="U4" pin="18"/>
+    </net>
+    <net code="12" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2"/>
+      <node ref="R8" pin="2"/>
+    </net>
+    <net code="13" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1"/>
+      <node ref="U4" pin="4"/>
+    </net>
+    <net code="14" name="Net-(D5-Pad1)">
+      <node ref="U7" pin="17"/>
+      <node ref="D5" pin="1"/>
+    </net>
+    <net code="15" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2"/>
+      <node ref="R12" pin="2"/>
+    </net>
+    <net code="16" name="Net-(U1-Pad10)">
+      <node ref="U1" pin="13"/>
+      <node ref="U1" pin="10"/>
+    </net>
+    <net code="17" name="13HPF">
+      <node ref="U4" pin="5"/>
+      <node ref="J6" pin="5"/>
+    </net>
+    <net code="18" name="20HPF">
+      <node ref="U4" pin="6"/>
+      <node ref="J6" pin="4"/>
+    </net>
+    <net code="19" name="6mLNA">
+      <node ref="U4" pin="7"/>
+      <node ref="J6" pin="9"/>
+    </net>
+    <net code="20" name="9.5HPF">
+      <node ref="J6" pin="6"/>
+      <node ref="U4" pin="14"/>
+    </net>
+    <net code="21" name="6.5HPF">
+      <node ref="J6" pin="7"/>
+      <node ref="U4" pin="15"/>
+    </net>
+    <net code="22" name="1.5HPF">
+      <node ref="U4" pin="16"/>
+      <node ref="J6" pin="8"/>
+    </net>
+    <net code="23" name="RX_BYPASS_OUT">
+      <node ref="U7" pin="7"/>
+      <node ref="J7" pin="2"/>
+    </net>
+    <net code="24" name="Att2">
+      <node ref="J6" pin="3"/>
+      <node ref="U7" pin="16"/>
+    </net>
+    <net code="25" name="Xvtr_IN">
+      <node ref="J7" pin="5"/>
+      <node ref="U7" pin="4"/>
+    </net>
+    <net code="26" name="RX2_IN">
+      <node ref="U7" pin="5"/>
+      <node ref="J7" pin="4"/>
+    </net>
+    <net code="27" name="RX3_IN">
+      <node ref="J7" pin="3"/>
+      <node ref="U7" pin="6"/>
+    </net>
+    <net code="28" name="Net-(U7-Pad20)">
+      <node ref="U7" pin="20"/>
+    </net>
+    <net code="29" name="+12V">
+      <node ref="J7" pin="7"/>
+      <node ref="J8" pin="9"/>
+      <node ref="J2" pin="4"/>
+      <node ref="J4" pin="4"/>
+      <node ref="C17" pin="1"/>
+      <node ref="U12" pin="1"/>
+      <node ref="C16" pin="2"/>
+      <node ref="D9" pin="1"/>
+      <node ref="J6" pin="12"/>
+      <node ref="J3" pin="5"/>
+    </net>
+    <net code="30" name="Net-(U6-Pad18)">
+      <node ref="U6" pin="18"/>
+    </net>
+    <net code="31" name="Net-(U7-Pad18)">
+      <node ref="U7" pin="18"/>
+    </net>
+    <net code="32" name="GND">
+      <node ref="C7" pin="2"/>
+      <node ref="U2" pin="7"/>
+      <node ref="J8" pin="10"/>
+      <node ref="U2" pin="7"/>
+      <node ref="U2" pin="7"/>
+      <node ref="C4" pin="2"/>
+      <node ref="U2" pin="7"/>
+      <node ref="U2" pin="7"/>
+      <node ref="U2" pin="7"/>
+      <node ref="C6" pin="2"/>
+      <node ref="U4" pin="19"/>
+      <node ref="U4" pin="11"/>
+      <node ref="U4" pin="10"/>
+      <node ref="U4" pin="9"/>
+      <node ref="J4" pin="3"/>
+      <node ref="C20" pin="1"/>
+      <node ref="C16" pin="1"/>
+      <node ref="C17" pin="2"/>
+      <node ref="J1" pin="1"/>
+      <node ref="C18" pin="1"/>
+      <node ref="C19" pin="2"/>
+      <node ref="TP2" pin="1"/>
+      <node ref="C3" pin="2"/>
+      <node ref="J5" pin="2"/>
+      <node ref="U1" pin="7"/>
+      <node ref="C2" pin="2"/>
+      <node ref="C1" pin="2"/>
+      <node ref="U1" pin="7"/>
+      <node ref="J1" pin="10"/>
+      <node ref="J2" pin="3"/>
+      <node ref="U1" pin="7"/>
+      <node ref="U1" pin="7"/>
+      <node ref="U1" pin="7"/>
+      <node ref="U6" pin="10"/>
+      <node ref="TP1" pin="1"/>
+      <node ref="U7" pin="19"/>
+      <node ref="U7" pin="11"/>
+      <node ref="U7" pin="10"/>
+      <node ref="U7" pin="9"/>
+      <node ref="U3" pin="11"/>
+      <node ref="U3" pin="10"/>
+      <node ref="U3" pin="9"/>
+      <node ref="U6" pin="19"/>
+      <node ref="U3" pin="19"/>
+      <node ref="U6" pin="9"/>
+      <node ref="U6" pin="11"/>
+      <node ref="U1" pin="7"/>
+      <node ref="J7" pin="6"/>
+      <node ref="U12" pin="2"/>
+      <node ref="U12" pin="4"/>
+      <node ref="TP3" pin="1"/>
+      <node ref="TP4" pin="1"/>
+      <node ref="J11" pin="3"/>
+      <node ref="J6" pin="13"/>
+      <node ref="J3" pin="4"/>
+      <node ref="J6" pin="10"/>
+    </net>
+    <net code="33" name="Net-(D9-Pad2)">
+      <node ref="J11" pin="1"/>
+      <node ref="J11" pin="2"/>
+      <node ref="D9" pin="2"/>
+    </net>
+    <net code="34" name="Net-(U1-Pad2)">
+      <node ref="U1" pin="3"/>
+      <node ref="U1" pin="2"/>
+    </net>
+    <net code="35" name="Att1">
+      <node ref="U7" pin="15"/>
+      <node ref="J6" pin="2"/>
+    </net>
+    <net code="36" name="SPI_SPL_CLK">
+      <node ref="U2" pin="5"/>
+      <node ref="J1" pin="4"/>
+      <node ref="R4" pin="2"/>
+      <node ref="R6" pin="2"/>
+      <node ref="U1" pin="5"/>
+    </net>
+    <net code="37" name="Net-(U1-Pad6)">
+      <node ref="U1" pin="6"/>
+      <node ref="U1" pin="9"/>
+    </net>
+    <net code="38" name="Ant_3">
+      <node ref="J3" pin="1"/>
+      <node ref="U6" pin="6"/>
+    </net>
+    <net code="39" name="Ant_1">
+      <node ref="U6" pin="4"/>
+      <node ref="J3" pin="3"/>
+    </net>
+    <net code="40" name="Ant_2">
+      <node ref="J3" pin="2"/>
+      <node ref="U6" pin="5"/>
+    </net>
+    <net code="41" name="Net-(U2-Pad8)">
+      <node ref="U7" pin="13"/>
+      <node ref="U2" pin="8"/>
+      <node ref="U4" pin="13"/>
+    </net>
+    <net code="42" name="6m_Bypass">
+      <node ref="U6" pin="15"/>
+      <node ref="J8" pin="7"/>
+    </net>
+    <net code="43" name="TX_RX_RLY">
+      <node ref="J2" pin="5"/>
+      <node ref="J6" pin="1"/>
+      <node ref="J4" pin="5"/>
+      <node ref="J7" pin="1"/>
+      <node ref="J8" pin="8"/>
+      <node ref="U6" pin="7"/>
+    </net>
+    <net code="44" name="Net-(U1-Pad8)">
+      <node ref="U6" pin="13"/>
+      <node ref="U1" pin="8"/>
+      <node ref="U3" pin="13"/>
+    </net>
+    <net code="45" name="Net-(J4-Pad6)">
+      <node ref="R7" pin="2"/>
+      <node ref="U3" pin="6"/>
+      <node ref="J4" pin="6"/>
+    </net>
+    <net code="46" name="Net-(D3-Pad2)">
+      <node ref="R10" pin="2"/>
+      <node ref="D3" pin="2"/>
+    </net>
+    <net code="47" name="Net-(D4-Pad2)">
+      <node ref="R11" pin="2"/>
+      <node ref="D4" pin="2"/>
+    </net>
+    <net code="48" name="Net-(D4-Pad1)">
+      <node ref="U6" pin="14"/>
+      <node ref="D4" pin="1"/>
+    </net>
+    <net code="49" name="Net-(D3-Pad1)">
+      <node ref="U3" pin="7"/>
+      <node ref="D3" pin="1"/>
+    </net>
+    <net code="50" name="Net-(U2-Pad4)">
+      <node ref="U4" pin="3"/>
+      <node ref="U2" pin="4"/>
+    </net>
+    <net code="51" name="160m">
+      <node ref="J8" pin="1"/>
+      <node ref="U3" pin="17"/>
+    </net>
+    <net code="52" name="80m">
+      <node ref="J8" pin="2"/>
+      <node ref="U3" pin="16"/>
+    </net>
+    <net code="53" name="40m">
+      <node ref="U3" pin="15"/>
+      <node ref="J8" pin="3"/>
+    </net>
+    <net code="54" name="30/20m">
+      <node ref="U3" pin="14"/>
+      <node ref="J8" pin="4"/>
+    </net>
+    <net code="55" name="17/15m">
+      <node ref="J8" pin="5"/>
+      <node ref="U6" pin="17"/>
+    </net>
+    <net code="56" name="12/10m">
+      <node ref="J8" pin="6"/>
+      <node ref="U6" pin="16"/>
+    </net>
+    <net code="57" name="Net-(U1-Pad4)">
+      <node ref="U3" pin="12"/>
+      <node ref="U6" pin="12"/>
+      <node ref="U1" pin="4"/>
+    </net>
+    <net code="58" name="Net-(U3-Pad18)">
+      <node ref="U6" pin="3"/>
+      <node ref="U3" pin="18"/>
+    </net>
+    <net code="59" name="Net-(U1-Pad12)">
+      <node ref="U1" pin="12"/>
+      <node ref="U3" pin="3"/>
+    </net>
+    <net code="60" name="+5V">
+      <node ref="C18" pin="2"/>
+      <node ref="C20" pin="2"/>
+      <node ref="R7" pin="1"/>
+      <node ref="J5" pin="1"/>
+      <node ref="C6" pin="1"/>
+      <node ref="U7" pin="2"/>
+      <node ref="R10" pin="1"/>
+      <node ref="R11" pin="1"/>
+      <node ref="C19" pin="1"/>
+      <node ref="C3" pin="1"/>
+      <node ref="C7" pin="1"/>
+      <node ref="C4" pin="1"/>
+      <node ref="R12" pin="1"/>
+      <node ref="R8" pin="1"/>
+      <node ref="U1" pin="14"/>
+      <node ref="U1" pin="14"/>
+      <node ref="U1" pin="14"/>
+      <node ref="U4" pin="8"/>
+      <node ref="U2" pin="14"/>
+      <node ref="U2" pin="14"/>
+      <node ref="U2" pin="14"/>
+      <node ref="U2" pin="14"/>
+      <node ref="U2" pin="14"/>
+      <node ref="U2" pin="14"/>
+      <node ref="U6" pin="2"/>
+      <node ref="R2" pin="1"/>
+      <node ref="R1" pin="1"/>
+      <node ref="U1" pin="14"/>
+      <node ref="R4" pin="1"/>
+      <node ref="U6" pin="8"/>
+      <node ref="U3" pin="8"/>
+      <node ref="U3" pin="2"/>
+      <node ref="U4" pin="2"/>
+      <node ref="U7" pin="8"/>
+      <node ref="U12" pin="3"/>
+      <node ref="R3" pin="2"/>
+      <node ref="U1" pin="14"/>
+      <node ref="C2" pin="1"/>
+      <node ref="U1" pin="14"/>
+      <node ref="R6" pin="1"/>
+      <node ref="R5" pin="2"/>
+      <node ref="C1" pin="1"/>
+    </net>
+    <net code="61" name="Net-(U4-Pad17)">
+      <node ref="U4" pin="17"/>
+    </net>
+    <net code="62" name="Net-(J1-Pad2)">
+      <node ref="J1" pin="2"/>
+    </net>
+    <net code="63" name="Net-(J1-Pad8)">
+      <node ref="J1" pin="8"/>
+    </net>
+    <net code="64" name="Net-(U6-Pad1)">
+      <node ref="U6" pin="1"/>
+    </net>
+    <net code="65" name="Net-(U6-Pad20)">
+      <node ref="U6" pin="20"/>
+    </net>
+    <net code="66" name="Net-(U4-Pad1)">
+      <node ref="U4" pin="1"/>
+    </net>
+    <net code="67" name="Net-(U3-Pad1)">
+      <node ref="U3" pin="1"/>
+    </net>
+    <net code="68" name="Net-(U3-Pad4)">
+      <node ref="U3" pin="4"/>
+    </net>
+    <net code="69" name="Net-(U3-Pad5)">
+      <node ref="U3" pin="5"/>
+    </net>
+    <net code="70" name="Net-(U3-Pad20)">
+      <node ref="U3" pin="20"/>
+    </net>
+    <net code="71" name="Net-(U7-Pad1)">
+      <node ref="U7" pin="1"/>
+    </net>
+    <net code="72" name="Net-(U4-Pad20)">
+      <node ref="U4" pin="20"/>
+    </net>
+  </nets>
+</export>

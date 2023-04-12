@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name Alexandrie-rescue)(type Legacy)(uri ${KIPRJMOD}/Alexandrie-rescue.lib)(options "")(descr ""))
+  (lib (name 7805d-pack)(type Legacy)(uri ${KIPRJMOD}/lib/Regulateurs/7805d-pack.lib)(options "")(descr ""))
+  (lib (name tpic6b595)(type Legacy)(uri ${KIPRJMOD}/lib/Logic/tpic6b595.lib)(options "")(descr ""))
+)
