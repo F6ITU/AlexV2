@@ -3,7 +3,7 @@
 Kicad files
 
 
-![Control board for Alexiares filter set driven by an Orion/OrionMK2/Anvelina SDR board with dual 16 bits ADC] https://github.com/F6ITU/AlexV2/blob/main/Alexandrie_V2_up.png
+![Control board for Alexiares filter set driven by an Orion/OrionMK2/Anvelina SDR board with dual 16 bits ADC ] (https://github.com/F6ITU/AlexV2/blob/main/Alexandrie_V2_up.png)
 
 This board supports the SPI "Alexiares" protocol (also called "J15") of 
 the original Hermes SDR board designed by the OpenHPSDR group.
