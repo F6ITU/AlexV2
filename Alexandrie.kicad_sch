@@ -1319,6 +1319,7 @@
     )
   )
 
+
   (junction (at 109.22 167.64) (diameter 0) (color 0 0 0 0)
     (uuid 07934e84-d5a6-47c2-93f4-8520aacaf009)
   )
@@ -5984,12 +5985,12 @@
   )
 
   (symbol (lib_id "74xx:74HCT04") (at 29.845 132.08 0) (unit 7)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 1d803bb5-ea01-48e0-ac30-e220970030bd)
     (property "Reference" "U2" (at 35.687 131.4363 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "74HCT04" (at 35.687 133.3573 0)
+    (property "Value" "74HCT04" (at 34.29 135.89 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" (at 29.845 132.08 0)
@@ -7148,8 +7149,8 @@
     )
   )
 
-  (symbol (lib_id "Regulator_Linear:LM78M05_TO252") (at 205.74 22.86 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+  (symbol (lib_id "Regulator_Linear:LM78M05_TO252") (at 205.74 22.86 0) (mirror y) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid cacc2af6-7953-42a7-bb77-8031d8d19637)
     (property "Reference" "U10" (at 205.74 17.9451 0)
       (effects (font (size 1.27 1.27)))
