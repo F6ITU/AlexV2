@@ -1319,7 +1319,6 @@
     )
   )
 
-
   (junction (at 109.22 167.64) (diameter 0) (color 0 0 0 0)
     (uuid 07934e84-d5a6-47c2-93f4-8520aacaf009)
   )
@@ -2903,8 +2902,8 @@
     (effects (font (size 1.524 1.524) (thickness 0.3048) bold (color 255 24 35 1)) (justify left bottom))
     (uuid 7f67894b-6ed8-4bcb-99dc-8865d23eb0b2)
   )
-  (text "RX_Ant\nAngelia/Hermes\nOrion : DNI\n" (at 276.225 61.595 0)
-    (effects (font (size 0.9906 0.9906) (thickness 0.1981) bold (color 255 36 34 1)) (justify right bottom))
+  (text "RX_Ant\nAngelia/Hermes\nOrion : DNI\n" (at 262.255 64.77 0)
+    (effects (font (face "KiCad Font") (size 1.524 1.524) (thickness 0.1981) bold (color 255 36 34 1)) (justify left bottom))
     (uuid 8486c294-aa7e-43c3-b257-1ca3356dd17a)
   )
   (text "Alexiares SPI decoder V2\nModular  bandpass filter for Orion/Anvelina SDR board\nHermes/Angelia compatible\nOriginal design by \nGraham Haddock, KE9H\nand Phil Harman, VK6APH"
@@ -2928,8 +2927,8 @@
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid a90361cd-254c-4d27-ae1f-9a6c85bafe28)
   )
-  (text "TX_Ant\n(All versions)" (at 244.475 48.26 0)
-    (effects (font (size 0.9906 0.9906) (thickness 0.1981) bold (color 255 52 57 1)) (justify left bottom))
+  (text "TX_Ant\n(All versions)" (at 242.57 52.07 0)
+    (effects (font (face "KiCad Font") (size 1.5 1.5) (thickness 0.3) bold (color 255 52 57 1)) (justify left bottom))
     (uuid a92f3b72-ed6d-4d99-9da6-35771bec3c77)
   )
   (text "12V In" (at 15.875 190.5 90)

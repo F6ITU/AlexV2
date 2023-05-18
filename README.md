@@ -1,5 +1,7 @@
 # Alexandrie_V2
 
+Dual ADC OpenHPSDR frontend control board
+
 Kicad files
 
 * Control board for Alexiares filter set driven by an Orion/OrionMK2/Anvelina SDR board with dual 16 bits ADC
