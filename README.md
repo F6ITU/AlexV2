@@ -2,6 +2,10 @@
 
 Dual ADC OpenHPSDR frontend control board
 
+  **Pour plus d'informations, reportez-vous au Wiki de la page [Alexandrie](https://github.com/F6ITU/Alexandrie)**
+  **For more information, please refer to the [Alexandrie](https://github.com/F6ITU/Alexandrie) wiki page**
+
+
 Kicad files
 
 * Control board for Alexiares filter set driven by an Orion/OrionMK2/Anvelina SDR board with dual 16 bits ADC
